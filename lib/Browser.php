@@ -4,7 +4,7 @@
 /**
  * File: Browser.php
  * Author: Chris Schuld (http://chrisschuld.com/)
- * Last Modified: August 20th, 2010
+ * Last Modified: August 20th, 2014
  * @version 1.9
  * @package PegasusPHP
  *
